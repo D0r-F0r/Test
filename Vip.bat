@@ -5,5 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/D0r-F0r/test.git
 git push -u origin main
-pause
 del Vip.bat
